@@ -1,0 +1,9 @@
+.footer {
+  color: red;
+  text-decoration: none;
+  position: fixed;
+  bottom: 0pt;
+  left: 0pt;
+  width: 100%;
+  height: 40px;
+}

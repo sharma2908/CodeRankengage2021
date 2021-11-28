@@ -1,0 +1,17 @@
+#step {
+  padding: 6px;
+  background: "#f6f6f6";
+  margin-bottom: 4px;
+  background: rgb(250, 250, 250);
+  box-shadow: 0 0 2px 1px #dfdfdf;
+}
+#step:hover {
+  cursor: pointer;
+  background: rgb(255, 255, 255);
+  box-shadow: 0 0 4px 2px #919090;
+}
+#step:active {
+  cursor: pointer;
+  background: rgb(255, 255, 255);
+  box-shadow: 0 0 4px 2px #919090;
+}

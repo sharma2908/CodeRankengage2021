@@ -3,8 +3,6 @@ This is a webapp which is made for improving student and teacher interaction.
 </br>
 I created this webapp as my Microsoft Engage 2021 Project.
 
-#### Video Link
-- https://drive.google.com/file/d/159rCmBhzYD3kbna4NaKZ1YTJVKodahVX/view?usp=sharing
 
 ## Features
 ### 1. Challenge Module
